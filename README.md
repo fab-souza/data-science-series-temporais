@@ -15,4 +15,17 @@
 ![](https://user-images.githubusercontent.com/67301805/212129044-2344ace3-b75c-42ac-b14e-32a228d09ac1.jpg)
 
 
-O que aprendi no 7º curso da formação: Python para Data Science (Alura)
+## Sobre o curso 📚
+
+
+
+
+## Minha prática 👩🏻‍💻
+
+
+
+
+## Ferramentas utilizadas 🧰
+<p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+    </p>
