@@ -31,6 +31,7 @@ Para analisar suas vendas, diárias ou mensais, o número de assinantes da newsl
 
 ## Minha prática 👩🏻‍💻
 
+Para treinar o que aprendi, utilizei datasets disponíveis no [Kaggle](kaggle.com), um referente às vendas diárias, semanais, mensais e por hora de uma [farmácia](https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data) e o outro, com os registros de uma [panificadora](https://www.kaggle.com/datasets/hosubjeong/bakery-sales).
 
 
 
