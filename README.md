@@ -33,6 +33,17 @@ Para analisar suas vendas, diárias ou mensais, o número de assinantes da newsl
 
 Para treinar o que aprendi, utilizei datasets disponíveis no [Kaggle](https://www.kaggle.com/), um referente às vendas diárias, semanais, mensais e por hora de uma [farmácia](https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data) e o outro, com os registros de uma [panificadora](https://www.kaggle.com/datasets/hosubjeong/bakery-sales).
 
+Começando pelos dados de venda diária da farmácia, há 2106 linhas e 13 variáveis no dataset, em que oito delas (M01AB, M01AE, N02BA, N02BA, N02BE, N05B, N05C, R03, R06) referem-se ao volume vendido de cada categoria de medicamento, eles estão no formato decimal, porque, segundo o criador do dataset, no país de origem dos dados, é permitido a venda de comprimidos individuais em embalagem. Enquanto as demais variáveis são sobre a data, mês, ano e etc.
+
+![image](https://user-images.githubusercontent.com/67301805/213557799-d02d1025-84fb-4117-a305-a26fb0612c4c.png)
+
+
+
+
+
+
+
+
 
 
 ## Ferramentas utilizadas 🧰
