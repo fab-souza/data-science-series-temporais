@@ -37,11 +37,16 @@ Começando pelos dados de venda diária da farmácia, há 2106 linhas e 13 vari�
 
 ![image](https://user-images.githubusercontent.com/67301805/213557799-d02d1025-84fb-4117-a305-a26fb0612c4c.png)
 
-Após um rápido tratamento dos dados, a conversão de *string* para *date* e a tradução das variáveis, plotei um  gráfico para cada medicamento e percebi que não obteria algo semelhante ao gráfico feito durante o curso, pois lá era o registro de um negócio em crescimento, ou seja, o número de vendas aumentou ao longo do tempo, enquanto neste dataset, somente o N02BE e R06 apresentou um comportamento com periodicidade.
+Após um rápido tratamento dos dados, a conversão de *string* para *date* e a tradução das variáveis, plotei um  gráfico para cada medicamento e percebi que não obteria algo semelhante ao gráfico feito durante o curso. No caso da Alucar, era a simulação de um negócio em crescimento, pois, ao longo do tempo, o número de vendas foi aumentando. Como apresenta o gráfico feito durante o curso:
 
+![image](https://user-images.githubusercontent.com/67301805/213761386-2a17ca35-7af0-4b37-9b8b-7df1eb72ae1d.png)
 
+Diferente do Alucar, nos dados da farmácia, eu consegui identificar um leve aumento de venda dos medicamentos tipo R03, um queda de venda do N02BA e uma periodicidade nos medicamentos N02BE e R06.
 
-
+![image](https://user-images.githubusercontent.com/67301805/213762029-634f7713-b492-4a95-b66b-b5f6cbf83c06.png)
+![image](https://user-images.githubusercontent.com/67301805/213761705-d007c7da-26ff-4bf0-b336-2a19bd2faab8.png)
+![image](https://user-images.githubusercontent.com/67301805/213761756-3148c95e-7bdf-4657-8346-c924e2cc5de7.png)
+![image](https://user-images.githubusercontent.com/67301805/213762082-03401a85-b906-481f-b04d-ca8784d447df.png)
 
 
 
