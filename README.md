@@ -48,6 +48,9 @@ Diferente do Alucar, nos dados da farmácia, eu consegui identificar um leve aum
 ![image](https://user-images.githubusercontent.com/67301805/213761756-3148c95e-7bdf-4657-8346-c924e2cc5de7.png)
 ![image](https://user-images.githubusercontent.com/67301805/213762082-03401a85-b906-481f-b04d-ca8784d447df.png)
 
+A forma que encontrei para emular o gráfico feito no curso, fiz uma lista vazia para receber o valor acumulado de venda do R03 a cada dia e depois plotei o gráfico entre as datas e os valores da lista.
+
+![image](https://user-images.githubusercontent.com/67301805/213779613-9d0aac37-f352-493b-9adc-4e5cc7ade96d.png)
 
 
 
