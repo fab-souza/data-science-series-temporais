@@ -37,7 +37,7 @@ Começando pelos dados de venda diária da farmácia, há 2106 linhas e 13 vari�
 
 ![image](https://user-images.githubusercontent.com/67301805/213557799-d02d1025-84fb-4117-a305-a26fb0612c4c.png)
 
-
+Após um rápido tratamento dos dados, a conversão de *string* para *date* e a tradução das variáveis, plotei um  gráfico para cada medicamento e percebi que não obteria algo semelhante ao gráfico feito durante o curso, pois lá era o registro de um negócio em crescimento, ou seja, o número de vendas aumentou ao longo do tempo, enquanto neste dataset, somente o N02BE e R06 apresentou um comportamento com periodicidade.
 
 
 
