@@ -26,6 +26,7 @@ Para analisar suas vendas, diárias ou mensais, o número de assinantes da newsl
 
 ![image](https://user-images.githubusercontent.com/67301805/212133362-93ce705e-efd7-413c-986d-4b03256cdcdc.png)
 ![image](https://user-images.githubusercontent.com/67301805/212137116-dc6deee0-5f2a-4e41-95b4-d4f1899ce346.png)
+![image](https://user-images.githubusercontent.com/67301805/213884762-3bda9a8b-902f-4f66-9bf1-fca58a16e107.png)
 
 
 
