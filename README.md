@@ -32,26 +32,29 @@ Para analisar suas vendas, diárias ou mensais, o número de assinantes da newsl
 
 ## Minha prática 👩🏻‍💻
 
-Para treinar o que aprendi, utilizei datasets disponíveis no [Kaggle](https://www.kaggle.com/), um referente às vendas diárias, semanais, mensais e por hora de uma [farmácia](https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data) e o outro, com os registros de uma [panificadora](https://www.kaggle.com/datasets/hosubjeong/bakery-sales).
+Para treinar o que aprendi, utilizei datasets disponíveis no [Kaggle](https://www.kaggle.com/), um referente às vendas diárias, semanais, mensais e por hora de uma [farmácia](https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data) e mais um com os registros de uma [panificadora](https://www.kaggle.com/datasets/hosubjeong/bakery-sales).
 
-Começando pelos dados de venda diária da farmácia, há 2106 linhas e 13 variáveis no dataset, em que oito delas (M01AB, M01AE, N02BA, N02BA, N02BE, N05B, N05C, R03, R06) referem-se ao volume vendido de cada categoria de medicamento, eles estão no formato decimal, porque, segundo o criador do dataset, no país de origem dos dados, é permitido a venda de comprimidos individuais em embalagem. Enquanto as demais variáveis são sobre a data, com o mês, ano e etc.
+Começando pelos dados de venda mensal de farmácia, há 70 linhas e 9 variáveis no dataset, em que oito delas (M01AB, M01AE, N02BA, N02BE, N05B, N05C, R03, R06) referem-se ao volume vendido de categorias de medicamento, eles estão no formato decimal, porque, segundo o criador do dataset, no país de origem dos dados, é permitido a venda de comprimidos individuais em embalagem.
 
-![image](https://user-images.githubusercontent.com/67301805/213557799-d02d1025-84fb-4117-a305-a26fb0612c4c.png)
+![dataframe1](https://user-images.githubusercontent.com/67301805/214155586-f807ee91-9e5e-4adb-adab-7055bd5223dd.png)
 
-Após um rápido tratamento dos dados, a conversão de *string* para *date* e a tradução das variáveis, plotei um  gráfico para cada medicamento e percebi que não obteria algo semelhante ao gráfico feito durante o curso. No caso da Alucar, era a simulação de um negócio em crescimento, pois, ao longo do tempo, o número de vendas foi aumentando. Como apresenta o gráfico feito durante o curso:
+Após um rápido tratamento dos dados, conversão de *string* para *date* e a tradução de variável, plotei um gráfico para cada medicamento e escolhi trabalhar com o R03, porque ele foi o único que apresentou vendas em crescimento. Até o início de 2019, é possível observar uma inclinação positiva das vendas e depois, até o término do dataset, há um número menor de vendas desses produtos.
 
-![image](https://user-images.githubusercontent.com/67301805/213761386-2a17ca35-7af0-4b37-9b8b-7df1eb72ae1d.png)
+![graficoR03](https://user-images.githubusercontent.com/67301805/214155774-dbcc4074-35db-452b-b8ca-a2ec0976cc8c.png)
 
-Diferente do Alucar, nos dados da farmácia, eu consegui identificar um leve aumento de venda dos medicamentos tipo R03, um queda de venda do N02BA e uma periodicidade nos medicamentos N02BE e R06.
+Para aprofundar essa análise, usei a função *.diff()* nas vendas mensais do R03. Essa função calcula a diferença entre os registros do dataframe, retirando a necessidade de fazer um *for* ou de criar uma função para executar o cálculo. Ao plotar o gráfico das diferenças, observa-se que, na maior parte dele, os registros oscilam entre 100 e -100, que ao final de 2018 houve o ápice das vendas e depois a redução desses números. 
 
-![image](https://user-images.githubusercontent.com/67301805/213762029-634f7713-b492-4a95-b66b-b5f6cbf83c06.png)
-![image](https://user-images.githubusercontent.com/67301805/213761705-d007c7da-26ff-4bf0-b336-2a19bd2faab8.png)
-![image](https://user-images.githubusercontent.com/67301805/213761756-3148c95e-7bdf-4657-8346-c924e2cc5de7.png)
-![image](https://user-images.githubusercontent.com/67301805/213762082-03401a85-b906-481f-b04d-ca8784d447df.png)
+![graficoR03aumento](https://user-images.githubusercontent.com/67301805/214156530-60734ce3-a2d8-4723-aae2-1fb6d6edbde6.png)
 
-A forma que encontrei para emular o gráfico feito no curso, fiz uma lista vazia para receber o valor acumulado de venda do R03 a cada dia e depois plotei o gráfico entre as datas e os valores da lista.
 
-![image](https://user-images.githubusercontent.com/67301805/213779613-9d0aac37-f352-493b-9adc-4e5cc7ade96d.png)
+
+
+
+
+
+
+
+
 
 
 
