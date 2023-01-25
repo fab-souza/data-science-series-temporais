@@ -37,7 +37,6 @@ Visualizar os gráficos separadamente e ter que procurá-los ao longo da página
 
 
 
-
 ## Minha prática 👩🏻‍💻
 
 Para treinar o que aprendi, utilizei datasets disponíveis no [Kaggle](https://www.kaggle.com/), um referente às vendas diárias, semanais, mensais e por hora de uma [farmácia](https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data) e mais um com os registros de uma [panificadora](https://www.kaggle.com/datasets/hosubjeong/bakery-sales).
@@ -74,7 +73,8 @@ Passando para o medicamento R06, ele apresenta uma sazonalidade, pois suas venda
 
 ![graficoR06](https://user-images.githubusercontent.com/67301805/214676634-acf701fb-7602-441c-b6f0-82f74dcd322c.png)
 
-
+Ao pesquisar o que são medicamentos Anti-histamínicos de uso sistêmico, eles são indicados para tratamento de: rinite alérgica, asma e urticária (Fonte: [UFJF](https://www.ufjf.br/farmacologia/files/2015/03/Anti-histam%C3%ADnicos.pdf)). 
+Porém não consegui identificar o que pode causar as vendas sazonais, já que essas doenças podem ser causadas através da inalação de substâncias, pelos de animais, mofo, uso de outros medicamentos, entre outros fatores ([rinite alérgica](https://www.google.com/search?q=rinite%2Bal%C3%A9rgica%2Bcausa&rlz=1C1GCEA_enBR852BR852&ei=i5XRY6zRBs_S1sQPmva36A8&ved=0ahUKEwjswueAzOP8AhVPqZUCHRr7Df0Q4dUDCA8&uact=5&oq=rinite%2Bal%C3%A9rgica%2Bcausa&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjoLCC4QgAQQsQMQgwE6BQgAEIAEOgsIABCABBCxAxCDAToICAAQgAQQsQM6BAgAEEM6DgguEIAEELEDEMcBENEDOggILhCABBCxAzoHCC4QsQMQQzoKCAAQsQMQgwEQQzoHCAAQsQMQQzoKCAAQgAQQsQMQCjoHCAAQgAQQCjoPCAAQgAQQDRCxAxCxAxAKOgwIABCABBANELEDEAo6CQgAEIAEEA0QCkoECEEYAEoECEYYAFAAWOxrYL9vaABwAXgAgAG2AYgBlRaSAQQwLjIxmAEAoAEBwAEB&sclient=gws-wiz-serp), [asma](https://www.google.com/search?q=asma%2Bcausa&rlz=1C1GCEA_enBR852BR852&ei=25XRY5vjGvjV1sQPi5WS4Ac&ved=0ahUKEwjbvI6nzOP8AhX4qpUCHYuKBHwQ4dUDCA8&uact=5&oq=asma%2Bcausa&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIJCAAQBxAeEPEEMgQIABAeMgQIABAeMgQIABAeMgQIABAeMgQIABAeMgQIABAeOgoIABBHENYEELADSgQIQRgASgQIRhgAUPgLWJQQYPcRaAJwAHgAgAGEAYgBgwSSAQMwLjSYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp), [urticária](https://www.google.com/search?q=urtic%C3%A1ria%2Bcausa&rlz=1C1GCEA_enBR852BR852&ei=rZXRY-roBZHM1sQPqqGguA4&ved=0ahUKEwiq84GRzOP8AhURppUCHaoQCOcQ4dUDCA8&uact=5&oq=urtic%C3%A1ria%2Bcausa&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIICAAQBxAeEA8yBggAEAcQHjIGCAAQBxAeMgQIABAeMgQIABAeMgQIABAeMgQIABAeOgoIABBHENYEELADOggIABAHEB4QCjoNCAAQgAQQDRCxAxCxAzoKCAAQgAQQDRCxAzoHCAAQgAQQDToNCAAQgAQQDRCxAxCDAUoECEEYAEoECEYYAFDACliFHmCvJWgBcAF4AIABvQKIAagNkgEHMC42LjEuMpgBAKABAcgBCMABAQ&sclient=gws-wiz-serp)).
 
 
 
