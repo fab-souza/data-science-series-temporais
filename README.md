@@ -70,8 +70,9 @@ Fiz o mesmo processo para o medicamento N02BA, porém ao contrário do que acont
 
 ![graficoN02BA](https://user-images.githubusercontent.com/67301805/214647248-dc2689e9-b992-4977-9761-e6d364b4aa7e.png)
 
+Passando para o medicamento R06, ele apresenta uma sazonalidade, pois suas vendas são baixas no começo e final de ano, mas são altas a partir do mês de maio, aproximadamente. 
 
-
+![graficoR06](https://user-images.githubusercontent.com/67301805/214676634-acf701fb-7602-441c-b6f0-82f74dcd322c.png)
 
 
 
