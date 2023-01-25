@@ -54,8 +54,9 @@ Para aprofundar essa análise, usei a função *.diff()* nas vendas mensais do R
 
 ![grafico 2 editado](https://user-images.githubusercontent.com/67301805/214289241-c022a9d2-c551-4bbe-97e5-935f4e1aa53f.jpg)
 
+Fiz o mesmo processo para o medicamento N02BA, porém ao contrário do que aconteceu com o R03, a venda deste produto vai decaindo ao longo da análise.
 
-
+![graficoN02BA](https://user-images.githubusercontent.com/67301805/214647248-dc2689e9-b992-4977-9761-e6d364b4aa7e.png)
 
 
 
