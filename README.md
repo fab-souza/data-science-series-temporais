@@ -42,9 +42,21 @@ Visualizar os gráficos separadamente e ter que procurá-los ao longo da página
 
 Para treinar o que aprendi, utilizei datasets disponíveis no [Kaggle](https://www.kaggle.com/), um referente às vendas diárias, semanais, mensais e por hora de uma [farmácia](https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data) e mais um com os registros de uma [panificadora](https://www.kaggle.com/datasets/hosubjeong/bakery-sales).
 
-Começando pelos dados de venda mensal de farmácia, há 70 linhas e 9 variáveis no dataset, em que oito delas (M01AB, M01AE, N02BA, N02BE, N05B, N05C, R03, R06) referem-se ao volume vendido de categorias de medicamento, eles estão no formato decimal, porque, segundo o criador do dataset, no país de origem dos dados, é permitido a venda de comprimidos individuais em embalagem.
+Começando pelos dados de venda mensal de farmácia, há 70 linhas e 9 variáveis no dataset, em que oito delas (M01AB, M01AE, N02BA, N02BE, N05B, N05C, R03, R06) referem-se ao volume vendido de categorias de medicamento.
+
+
+* M01AB - Produtos antiinflamatórios e anti reumáticos, não esteróides, derivados do ácido acético e substâncias relacionadas;
+* M01AE - Produtos antiinflamatórios e anti reumáticos, não esteróides, derivados do ácido propiônico;
+* N02BA - Outros analgésicos e antipiréticos, Ácido salicílico e derivados;
+* N02BE/B - Outros analgésicos e antipiréticos, Pirazolonas e Anilidas;
+* N05B - Drogas psicolépticas, Drogas ansiolíticas;
+* N05C - Medicamentos psicolépticos, medicamentos hipnóticos e sedativos;
+* R03 - Medicamentos para doenças obstrutivas das vias aéreas;
+* R06 - Anti-histamínicos de uso sistêmico.
 
 ![dataframe1](https://user-images.githubusercontent.com/67301805/214155586-f807ee91-9e5e-4adb-adab-7055bd5223dd.png)
+
+Eles estão no formato decimal, porque, segundo o criador do dataset, no país de origem dos dados, é permitida a venda de comprimidos individuais em embalagem.
 
 Após um rápido tratamento dos dados, conversão de *string* para *date* e a tradução de variável, plotei um gráfico para cada medicamento e escolhi trabalhar com o R03, porque ele foi o único que apresentou vendas em crescimento. Até o início de 2019, é possível observar uma inclinação positiva das vendas e depois, até o término do dataset, há um número menor de vendas desses produtos.
 
