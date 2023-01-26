@@ -78,7 +78,7 @@ Porém não consegui identificar o que pode causar as vendas sazonais, já que e
 
 ---
 
-Passando para o dataset da panificadora, que são sobre vendas delivery que a empresa recebeu entre julho de 2019 até junho de 2020. Após tratar os dados, criei um novo dataframe contendo a data, hora, dia da semana e o valor do pedido, porque, primeiramente, queria analisar como estavam as vendas, se estavam crescendo, diminuindo ou se oscilavam em um intervalo. Porém, me deparei com um gráfico cheio de ruídos.
+Passando para o dataset da panificadora, que são sobre vendas delivery que a empresa recebeu entre julho de 2019 até junho de 2020. Após tratar os dados, criei um novo dataframe contendo a data, hora, dia da semana e o valor do pedido, porque, primeiramente, queria analisar como estavam as vendas, se estavam crescendo, diminuindo ou se oscilavam em um intervalo. Porém, me deparei com um gráfico cheio de ruídos e com um outlier que bagunçou a escala do gráfico.
 
 ![grafico panificadora](https://user-images.githubusercontent.com/67301805/214970812-adc95694-c860-4023-bd3f-7d22453c5c76.png)
 
