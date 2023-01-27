@@ -88,7 +88,9 @@ Para reduzir os ruídos, apliquei a média móvel duas vezes, primeiro para 7 di
 
 Ambos referem-se às vendas que foram entregues, há uma queda dos pedidos até o começo de outubro, depois eles sobem um pouco e oscilam em uma faixa de preço, até que em fevereiro de 2020 os pedidos voltam a subir até o início do mês seguinte e voltam a cair. Porém no segundo gráfico, com a redução do ruído houve perda de informação, essa troca melhorou a visualização dos pedidos, mas deve ser utilizado com cautela, pois dependendo do negócio ou do valor escolhido para a média móvel, o resultado ficará tão alterado que pode dar margem para interpretação incorreta.
 
+---
 
+Muito obrigada por chegar até aqui e até a próxima 🤗
 
 
 ## Ferramentas utilizadas 🧰
