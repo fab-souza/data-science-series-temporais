@@ -9,7 +9,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Data Science: análise de séries temporais**
 | :label: Tecnologias | python
-| :rocket: URL         | 
+| :rocket: URL         | [Notebook no Kaggle](https://www.kaggle.com/code/fabianadesouza/data-science-series-temporais)
 | :fire: Desafio     | Conteúdo do curso [Data Science: análise de séries temporais](https://www.alura.com.br/curso-online-data-science-series-temporais)
 
 ![](https://user-images.githubusercontent.com/67301805/212129044-2344ace3-b75c-42ac-b14e-32a228d09ac1.jpg)
