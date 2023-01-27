@@ -82,6 +82,14 @@ Passando para o dataset da panificadora, que são sobre vendas delivery que a em
 
 ![grafico panificadora](https://user-images.githubusercontent.com/67301805/214970812-adc95694-c860-4023-bd3f-7d22453c5c76.png)
 
+Para reduzir os ruídos, apliquei a média móvel duas vezes, primeiro para 7 dias, depois para 21 dias e obtive o seguinte gráfico: 
+
+![grafico com as duas medias moveis](https://user-images.githubusercontent.com/67301805/214977859-6b1323fd-7a56-4901-a365-38a01e22a02b.png)
+
+Ambos referem-se às vendas que foram entregues, há uma queda dos pedidos até o começo de outubro, depois eles sobem um pouco e oscilam em uma faixa de preço, até que em fevereiro de 2020 os pedidos voltam a subir até o início do mês seguinte e voltam a cair. Porém no segundo gráfico, com a redução do ruído houve perda de informação, essa troca melhorou a visualização dos pedidos, mas deve ser utilizado com cautela, pois dependendo do negócio ou do valor escolhido para a média móvel, o resultado ficará tão alterado que pode dar margem para interpretação incorreta.
+
+
+
 
 ## Ferramentas utilizadas 🧰
 <p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
