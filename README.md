@@ -98,11 +98,12 @@ Eu gostei de aprender este conteúdo, porque a análise dos gráficos nos permit
 Já sobre os medicamentos N02BA, eu levantaria as hipóteses:
 
 - de que o produto está na fase de Declínio e pode começar a dar prejuízo para o fabricante;
-- ou começou a ser vendido um novo fármaco mais vantajoso/acessível para os clientes.
+- a região pode estar passando por um período de crise;
+- ou foi inaugurado um concorrente nas proximidades e que vende seus produtos mais baratos.
 
-Se eu estivesse acompanhando as vendas dos medicamentos desde seu lançamento, seria interessante identificar cada fase e  indicar a relação entre as vendas e o lucro. Pois entre as fases Crescimento e Maturidade, é quando o produto gera maior lucro e o valor arrecadado pode ser utilizado para desenvolver novos produtos, ou lançar uma extensão do produto, como acontece na indústria de videogames. Determinado tempo após o lançamento do jogo é lançado um DLC, que faz com que as pessoas continuem jogando e pode incentivar novos clientes a adquirirem o jogo. 
+Se eu estivesse acompanhando as vendas dos medicamentos desde seu lançamento, seria interessante identificar cada fase e indicar a relação entre as vendas e o lucro. Pois entre as fases Crescimento e Maturidade, é quando o produto gera maior lucro e o valor arrecadado pode ser utilizado para desenvolver novos produtos, ou lançar uma extensão do produto, como acontece na indústria de videogames. Determinado tempo após o lançamento do jogo é lançado um DLC, que faz com que as pessoas continuem jogando e pode incentivar novos clientes a adquirirem o jogo com a extensão. 
 
-
+Sei que na indústria farmacêutica não é bem assim que funcionam suas vendas, que não tem como lançar uma extensão do remédio de gripe, por exemplo. Sei que é mais custoso e burocrático liberar a venda de um novo fármaco, começando pela pesquisa e até chegar nos testes em humanos, demanda muito tempo. No entanto, os gráficos referem-se às vendas de uma farmácia e não do setor farmacêutico, em escala global. Os três medicamentos analisados (R03, N02BA e R06) apresentaram queda em 2019, o que pode ser um indicativo de que a farmácia não esteja passando por um bom momento, que talvez não seja um problema dos medicamentos, e sim, da empresa.
 
 
 ---
