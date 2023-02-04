@@ -88,6 +88,23 @@ Para reduzir os ruídos, apliquei a média móvel duas vezes, primeiro para 7 di
 
 Ambos referem-se às vendas que foram entregues, há uma queda dos pedidos até o começo de outubro, depois eles sobem um pouco e oscilam em uma faixa de preço, até que em fevereiro de 2020 os pedidos voltam a subir até o início do mês seguinte e voltam a cair. Porém no segundo gráfico, com a redução do ruído houve perda de informação, essa troca melhorou a visualização dos pedidos, mas deve ser utilizado com cautela, pois dependendo do negócio ou do valor escolhido para a média móvel, o resultado ficará tão alterado que pode dar margem para interpretação incorreta.
 
+
+## Conclusão 🏁
+
+Eu gostei de aprender este conteúdo, porque a análise dos gráficos nos permite tomar melhores decisões administrativas. Por exemplo os medicamentos R03, as vendas cresceram até 2019, mas começaram a declinar. Neste caso, posso criar hipóteses do tipo:
+- estes produtos estavam na fase de Crescimento, atingiu a Maturidade, até que entrou na última fase do ciclo de vida do produto, o Declínio;
+- ou, em 2019, entrou no mercado um produto concorrente, que causou a queda nas vendas.
+
+Já sobre os medicamentos N02BA, eu levantaria as hipóteses:
+
+- de que o produto está na fase de Declínio e pode começar a dar prejuízo para o fabricante;
+- ou começou a ser vendido um novo fármaco mais vantajoso/acessível para os clientes.
+
+Se eu estivesse acompanhando as vendas dos medicamentos desde seu lançamento, seria interessante identificar cada fase e  indicar a relação entre as vendas e o lucro. Pois entre as fases Crescimento e Maturidade, é quando o produto gera maior lucro e o valor arrecadado pode ser utilizado para desenvolver novos produtos, ou lançar uma extensão do produto, como acontece na indústria de videogames. Determinado tempo após o lançamento do jogo é lançado um DLC, que faz com que as pessoas continuem jogando e pode incentivar novos clientes a adquirirem o jogo. 
+
+
+
+
 ---
 
 Muito obrigada por chegar até aqui e até a próxima 🤗
