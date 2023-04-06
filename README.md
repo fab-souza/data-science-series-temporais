@@ -3,7 +3,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
 ![Badge code size](https://img.shields.io/github/languages/code-size/fab-souza/data-science-series-temporais)
-![Badge de Atualização](https://img.shields.io/github/last-commit/fab-souza/data-science-series-temporais)
+
 
 | :placard: Vitrine.Dev |    |
 | -------------  | --- |
